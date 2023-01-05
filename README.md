@@ -25,10 +25,9 @@
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--BEMrnacC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Adobe%2520Photoshop-31A8FF%3Fstyle%3Dfor-the-badge%26logo%3DAdobe%2520Photoshop%26logoColor%3Dblack" alt="photoshop"/>
   <br>
           
-#
+
   ![Snake animation](https://github.com/crhisangela/crhisangela/blob/output/github-contribution-grid-snake.svg) 
   
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.crhisangela" alt="visitors">
-
+<img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.crhisangela" alt="visitors">
 
   </div>
