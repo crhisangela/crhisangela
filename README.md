@@ -1,9 +1,9 @@
-<img align="right" src="https://31.media.tumblr.com/9f8bd3851f550f313c3e7cd1ef3e8d11/tumblr_mlobvjCSZt1rwy3fgo1_500.gif" alt="positive rock lee" />
+<img align="right" src="https://31.media.tumblr.com/9f8bd3851f550f313c3e7cd1ef3e8d11/tumblr_mlobvjCSZt1rwy3fgo1_500.gif" alt="positive rock lee" width="30%">
 
 # 😊 Olá!  |  Hello!  |  ¡Hola!  |   你好！  </h1>
 
 
-<p>My name is Crhis, I'm a developer 🖥️, data scientist 📊, poly athlete 🛹🏈🤸🏻‍♀️ and polyglot [🇧🇷 🇺🇸 🇪🇸 🇨🇳].</p>
+<p>My name is Crhis, I'm a developer 🖥️, data scientist 📊, poly athlete 🛹🏈🤸🏻‍♀️ and polyglot.</p>
 
 <br>
 
