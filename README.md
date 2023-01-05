@@ -28,6 +28,6 @@
 
   ![Snake animation](https://github.com/crhisangela/crhisangela/blob/output/github-contribution-grid-snake.svg) 
   
-<img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.crhisangela" alt="visitors">
+<img src="https://visitor-badge.glitch.me/badge?page_id=crhisangela" alt="visitors">
 
   </div>
