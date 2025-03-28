@@ -1,6 +1,6 @@
 # Hi, I'm Crhis! 👋
 
-I'm a passionate Data Scientist from Brazil, currently pursuing a Master's degree in Computer Science with a focus on Artificial Intelligence. With a deep love for learning and research, I dedicate myself to exploring the world of data and AI.
+I'm a passionate Data Scientist from Brazil. With a deep love for learning and research, I dedicate myself to exploring the world of data and AI.
 
 ## What I Do
 
